@@ -127,7 +127,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido com ❤️ por [KuroshiD](https://github.com/KuroshiD).
 
 ## 🌟 Melhorias Futuras
 
