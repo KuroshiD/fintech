@@ -1,0 +1,15 @@
+{
+    "name": "bull-board",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@bull-board/api": "^5.9.1",
+        "@bull-board/express": "^5.9.1",
+        "@bull-board/ui": "^5.9.1",
+        "express": "^4.18.2",
+        "bull": "^4.10.0",
+        "ioredis": "^5.3.1"
+    }
+}
